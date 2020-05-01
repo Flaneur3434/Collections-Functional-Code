@@ -19,6 +19,10 @@ public class _Consumer {
         System.out.println("Hello " + customer.customerName + ", is your number: " + customer.customerPhoneNumber + "?");
     };
 
+    private static Consumer<String> throwAwayConsumer = x ->{
+        System.out.println(x+1);
+    };
+
     private static class Customer{
         private final String customerName;
         private final String customerPhoneNumber;
