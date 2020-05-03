@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4efa9d69-2b23-49f4-ba05-1a0252f93a2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../consumer/src/_Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../consumer/src/_Consumer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/vimTesting" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Callbacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -124,10 +122,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1000" y="28" width="428" height="504" key="FileChooserDialogImpl" timestamp="1588348391128">
+    <state x="998" y="10" width="428" height="504" key="FileChooserDialogImpl" timestamp="1588463190073">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1000" y="28" width="428" height="504" key="FileChooserDialogImpl/0.0.1920.1080/0.1079.1920.1080@0.0.1920.1080" timestamp="1588348391128" />
+    <state x="998" y="10" width="428" height="504" key="FileChooserDialogImpl/0.0.1920.1080/0.1079.1920.1080@0.0.1920.1080" timestamp="1588463190073" />
     <state width="886" height="342" key="GridCell.Tab.0.bottom" timestamp="1588307170072">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -160,10 +158,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="886" height="342" key="GridCell.Tab.1.right/0.0.1920.1080/0.1079.1920.1080@0.0.1920.1080" timestamp="1588307170073" />
-    <state x="1089" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1588349265535">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="1087" y="1376" key="com.intellij.ide.util.TipDialog" timestamp="1588463161141">
+      <screen x="0" y="1079" width="1920" height="1080" />
     </state>
     <state x="1089" y="315" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/0.1079.1920.1080@0.0.1920.1080" timestamp="1588349265535" />
+    <state x="1087" y="1376" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/0.1079.1920.1080@0.1079.1920.1080" timestamp="1588463161141" />
     <state x="556" y="88" width="1338" height="538" key="new project wizard" timestamp="1588348392993">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
